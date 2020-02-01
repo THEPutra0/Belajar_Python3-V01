@@ -10,7 +10,9 @@ Hay Gan Semoga Ini Beemanfaaat Bagi Kalian Ok
 
 3.git clone https://github.com/Tutorial-Termux-Hacking/Belajar_Python.V01
 
-4.python2 bahan.py
+4.cd Belajar_Python.V01
 
-5.python2 Belajar_Python3.py
+5.python2 bahan.py
+
+6.python2 Belajar_Python3.py
 
