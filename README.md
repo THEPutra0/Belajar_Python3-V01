@@ -1,6 +1,10 @@
 # Belajar_Python3-V01
 
-Hay Gan Semoga Ini Beemanfaaat Bagi Kalian Ok
+Hay Gan Semoga Ini Beemanfaaat Bagi Kalian,Toold Ini Untuk Brlajar
+BAHASA Pemprogaman Python3 Jadi Jangan Lupa Jugan Agan Subscribe Channel
+Saya The X Queens 
+
+Link : https://youtube.com/c/TheXQueens
 
 <h3>Cara Install Nya</h3>
 
